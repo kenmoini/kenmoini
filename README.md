@@ -11,8 +11,7 @@
 
 ## Current Projects
 
-<a href="https://github.com/kenmoini/locksmith"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kenmoini&repo=locksmith" alt="Locksmith - PKI via API" /></a>
-<a href="https://github.com/kenmoini/go-zones"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kenmoini&repo=go-zones" alt="GoZones - DNS as YAML" /></a>
-<a href="https://github.com/kenmoini/rh-workshops"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kenmoini&repo=rh-workshops" alt="Red Hat Workshops" /></a>
-
-<a href="https://github.com/kenmoini/jig"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kenmoini&repo=jig" alt="Jig - Workshop Backend" /></a>
+<a href="https://github.com/kenmoini/locksmith"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kenmoini&repo=locksmith" alt="Locksmith - PKI via API" /></a>
+<a href="https://github.com/kenmoini/go-zones"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kenmoini&repo=go-zones" alt="GoZones - DNS as YAML" /></a>
+<a href="https://github.com/kenmoini/jig"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kenmoini&repo=jig" alt="Jig - Workshop Backend" /></a>
+<a href="https://github.com/kenmoini/rh-workshops"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kenmoini&repo=rh-workshops" alt="Red Hat Workshops" /></a>
